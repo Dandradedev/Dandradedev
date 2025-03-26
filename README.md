@@ -1,4 +1,4 @@
-## Seja Muito Bem Vindo(a), Sou o Danilo Andrade
+## Seja Muito Bem Vindo(a), 🧑‍💻​ Danilo Andrade
 
 - 🔵 Atualmente trabalho com automações python
 - ⚪️ Estudando Python e Node.js
