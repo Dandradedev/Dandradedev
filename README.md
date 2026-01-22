@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Danilo Andrade | Seja Muito Bem Vindo(a) !!
 
-**`Desenvolvedor Back End | Automações`**
+**`Engenheiro de Aplicações Desktop  | `**
 
 Meu nome é  Danilo Olveira Andrade. Atualmente tenho 20 anos e estou cursando Ciência da Computação na Faculdade PUC MINAS Campus de Poços de Caldas MG. Tenho interesses em Back End e Automações Python.
 
