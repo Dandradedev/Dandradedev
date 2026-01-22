@@ -2,7 +2,7 @@
 
 **`Engenheiro de Aplicações Desktop  | `**
 
-Meu nome é  Danilo Olveira Andrade. Atualmente tenho 21 anos e estou cursando Ciência da Computação na Faculdade PUC MINAS Campus de Poços de Caldas MG. Tenho interesses em Back End e Automações Python.
+Meu nome é  Danilo Olveira Andrade. Atualmente tenho 21 anos e estou cursando Ciência da Computação na Faculdade PUC MINAS Campus de Poços de Caldas MG.
 
 <p align="left">
     <a href="https://github.com/Dandradedev?tab=followers">
